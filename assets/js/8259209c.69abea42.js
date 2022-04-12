@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktaichi_js_com=self.webpackChunktaichi_js_com||[]).push([[264],{5745:function(s){s.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-pages","id":"default"}}')}}]);
