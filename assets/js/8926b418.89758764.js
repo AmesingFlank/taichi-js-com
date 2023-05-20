@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktaichi_js_com=self.webpackChunktaichi_js_com||[]).push([[7998],{4289:(e,t,a)=>{a.r(t),a.d(t,{default:()=>i});var c=a(7294),u=a(6550);function i(){return c.createElement(u.l_,{to:"/playground/game-of-life"})}}}]);

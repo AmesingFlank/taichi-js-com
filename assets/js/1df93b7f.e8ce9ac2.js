@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktaichi_js_com=self.webpackChunktaichi_js_com||[]).push([[3237],{3808:(e,t,c)=>{c.r(t),c.d(t,{default:()=>i});var a=c(7294),n=c(2263);var s=c(6550);function i(){const{siteConfig:e}=(0,n.Z)();return a.createElement(s.l_,{to:"/playground"})}}}]);
